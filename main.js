@@ -1,3 +1,3 @@
-let feature_merge__branches = 'feature/merge-branches';
+let feature__develop_branch = 'feature/develop-branch';
 
-console.log(feature_merge__branches);
+console.log(feature__develop_branch);
